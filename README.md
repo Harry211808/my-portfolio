@@ -16,7 +16,7 @@ Chào mừng đến với kho tài liệu học tập của mình. Đây là nơ
 
 \* \*\*Vị trí mong muốn:\*\* Java Backend / Fullstack Developer
 
-\* \*\*Sở thích:\*\* \[Ví dụ: Code, Chơi game, Đá bóng...]
+\* \*\*Sở thích:\*\* \[Ví dụ: Code, Chơi game, Đá bóng...]: Cờ tướng và nghe nhạc
 
 
 
